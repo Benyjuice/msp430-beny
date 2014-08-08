@@ -1,7 +1,7 @@
 #ifndef __MSP430_PREDEFINE_H
 #define __MSP430_PREDEFINE_H
 
-*
+/*
 *               MSP430 Port Function defination
 *       使用说明：
 *               1.定义信号 #define IO_XXXX(m) m(port,bit,Y/N)
